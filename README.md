@@ -2,7 +2,7 @@
 The size of the corpus that I used to training the word embeddings is around 16Gb and consists of different news articles. 
 
 # Word2Vec
-Python implementation of Word2Vec with Gensim. The parameters of the Word2Vec model that training are:
+Python implementation of Word2Vec with Gensim. The parameters of the Word2Vec model that trained are:
 * size = 250
 * window = 5
 * min count = 50
@@ -10,7 +10,7 @@ Python implementation of Word2Vec with Gensim. The parameters of the Word2Vec mo
 * iter = 20
 
 # FastText
-Python implementation of FastText with Gensim. The parameters of the FastText model that training are:
+Python implementation of FastText with Gensim. The parameters of the FastText model that trained are:
 * size = 250
 * window = 5
 * min count = 10
