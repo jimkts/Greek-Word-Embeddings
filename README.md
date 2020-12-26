@@ -1,5 +1,5 @@
 # Word-Embeddings (Greek Language)
-The size of the corpus that I used to training the word embeddings is around 16Gb and consists of different news articles. 
+The size of the corpus that I used to training the word embeddings is around 16Gb and consists of different news articles. You can download [Word2Vec embeddings](https://drive.google.com/drive/folders/1lR3WAvRH3zFEb2RtWVfPgEOwgaTM4qqM?usp=sharing) and FastText embeddings. 
 
 # Word2Vec
 Python implementation of Word2Vec with Gensim. The parameters of the Word2Vec model that trained are:
