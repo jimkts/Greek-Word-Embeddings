@@ -1,5 +1,5 @@
 # Word-Embeddings (Greek Language)
-The size of the corpus that I used to training the word embeddings is around 16Gb and consists of different news articles. You can download [Word2Vec embeddings](https://drive.google.com/drive/folders/1lR3WAvRH3zFEb2RtWVfPgEOwgaTM4qqM?usp=sharing) and [FastText embeddings](https://drive.google.com/drive/folders/10hQrUQ7J6kZq4MiQ3oWx7KGl6yBmu8WY?usp=sharing). 
+The size of the corpus that I used to training the word embeddings is around 16Gb and consists of different news articles. You can download [Word2Vec embeddings](https://drive.google.com/drive/folders/1lR3WAvRH3zFEb2RtWVfPgEOwgaTM4qqM?usp=sharing) and [FastText embeddings](https://drive.google.com/file/d/1N-yEgXdWKNZii40wYo6vJVvVEzd3jSxM/view?usp=drive_link)). 
 
 Also you can download a tweets pre annotated dataset for sentiment analysis for modern Greek. The dataset consists of 3 classes: positive, negative and neutral.
 
